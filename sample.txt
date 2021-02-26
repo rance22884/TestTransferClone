@@ -1,4 +1,8 @@
 First Git Commit.
 新增一行文字在這邊
 Tutorial2 commit.
+<<<<<<< HEAD
 加入等級系統
+=======
+加入任務功能
+>>>>>>> branch1
